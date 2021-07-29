@@ -1,4 +1,14 @@
-### Hi there 👋
+
+![GitHub Logo](https://emojipedia-us.s3.amazonaws.com/source/skype/289/folded-hands_1f64f.png)
+
+### Namaste
+
+🔭 Im currently working on Machine learning projects.
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/multiskilled) 
+
+![Profile views](https://gpvc.arturio.dev/mk)  
 
 <!--
 **multiskilled/multiskilled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
