@@ -1,9 +1,8 @@
 
 ![GitHub Logo](https://emojipedia-us.s3.amazonaws.com/source/skype/289/folded-hands_1f64f.png)
 
-### Namaste
 
-🔭 Im currently working on Machine learning projects.
+🔭 currently working on Machine learning projects.
 
 <br />
 
